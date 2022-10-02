@@ -7,4 +7,4 @@ In this project, we showed off our front-end development abilities. We were only
 
 ## Essentials to run the code
 - Visual Studios Code
-- Basic Knowledge about HTML, CSS and Java Script
+- Basic Knowledge about HTML and CSS
